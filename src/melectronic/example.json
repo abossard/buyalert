@@ -1,0 +1,39 @@
+﻿{
+  "stores": [
+    {
+      "storeId": "0045140",
+      "marketId": "0045150_mec",
+      "kst": "0045150",
+      "pickmupServiceTypePresent": false,
+      "name": "melectronics - Carouge - MParc La Praille",
+      "text": "<p>Auf &uuml;ber 1200m2 finden Sie bei uns ein ausgew&auml;hltes Sortiment an neuester Unterhaltungs- und Heimelektronik mit attraktiven Top-Marken zu gewohnt g&uuml;nstigen Preisen.</p>\n\n<p>&nbsp;</p>\n\n<p>Lassen Sie sich von unseren fachkundigen Mitarbeiterinnen und Mitarbeitern unsere aktuellen Angebote zeigen und kompetent beraten. Profitieren Sie auch von unseren zahlreichen Service- und Dienstleistungen wie die kostenlose Heimlieferung oder die Installation und Inbetriebnahme Ihres Ger&auml;ts.</p>\n\n<p>&nbsp;</p>\n\n<p>Sie erreichen uns bequem mit dem &ouml;ffentlichen Verkehr der Linien 11, 12, 18, 21, 22, 41, 42, 44, 45 oder benutzen Sie unsere zahlreichen Parkm&ouml;glichkeiten.</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Wir freuen uns auf Ihren Besuch!</p>\n\n<p>Ihr melectronics Team</p>\n",
+      "storeType": "fm",
+      "phone": "058 573 42 00",
+      "location": {
+        "address": "Avenue Vibert 32",
+        "zip": "1227",
+        "city": "Carouge GE",
+        "latitude": 46.1847993,
+        "longitude": 6.1339501,
+        "country": "CH"
+      },
+      "distance": 208.6499506017,
+      "stock": {
+        "stockStatus": 2,
+        "inventory": 0
+      },
+      "imageUrls": [
+        "//image.migros.ch/filialen/{stack}/624a674e345c7f39f2333af1874ef32d61da20b9/melectronics-carouge-mparc-la-praille-image.jpg"
+      ],
+      "logoUrl": "https://image.migros.ch/filialen/{stack}/faffada7c8c6c44e7fe75da440d501c6d08a851c/mec-de-logo.png",
+      "marketName": "melectronics",
+      "url": "/de/cp/store/0045150/melectronics-carouge-mparc-la-praille",
+      "cooperativeName": "Genf",
+      "isPickMUpBox": false,
+      "ownSubsidiary": true,
+      "hint": ""
+    }
+  ],
+  "latitude": 47.3830192,
+  "longitude": 8.2430405
+}
